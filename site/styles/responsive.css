@@ -1,0 +1,30 @@
+@media (max-width:600px) {
+    .btn {
+        font-size: 18px;
+        padding: 12px 18px;
+    }
+
+    /* title */
+
+    .title {
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 32px;
+        margin-bottom: 24px;
+    }
+
+    .description {
+        font-size: 14px;
+    }
+
+    /* logo */
+    .logo {
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 42px;
+    }
+
+    .logo>span {
+        color: var(--color-primary);
+    }
+}
